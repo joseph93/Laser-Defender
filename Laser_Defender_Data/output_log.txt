@@ -1,0 +1,60 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 5300 (ID=0x161e)
+    Vendor:   Intel
+    VRAM:     2111 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.236 seconds
+Platform assembly: C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\josep\Documents\Laser Defender\Laser_Defender_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.614480 ms
+New Level load: Game
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.068694 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.537818 ms (FindLiveObjects: 0.057476 ms CreateObjectMapping: 0.035922 ms MarkObjects: 0.433128 ms  DeleteObjects: 0.010263 ms)
+
+New Level load: Game Over
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.183090 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 178.
+Total: 0.667140 ms (FindLiveObjects: 0.043107 ms CreateObjectMapping: 0.045160 ms MarkObjects: 0.372572 ms  DeleteObjects: 0.202194 ms)
+
+New Level load: Start Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.812885 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 187.
+Total: 0.496763 ms (FindLiveObjects: 0.034896 ms CreateObjectMapping: 0.029764 ms MarkObjects: 0.407469 ms  DeleteObjects: 0.022580 ms)
+
+Duplicate music player self-destructing!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2424 -> priority: 1 
